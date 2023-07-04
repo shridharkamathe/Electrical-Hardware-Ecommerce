@@ -1,10 +1,6 @@
 # Electrical Hardware Ecommerce Sales Data Analysis
 
-![ni-tech](https://github.com/shridharkamathe/Titanic/assets/124047047/e5089ab9-b17b-4ce1-a214-0d12d8291778)
-
-This repository contains an analysis of the sales data for an Electrical Hardware ![ni-tech](https://github.com/shridharkamathe/Electrical-Hardware-Ecommerce/assets/124047047/66626a2f-6c98-42e4-9210-93d17f8d3fa3)
-
-Ecommerce company. The analysis aims to provide sales insights and strategies to
+This repository contains an analysis of the sales data for an Electrical Hardware Ecommerce company. The analysis aims to provide sales insights and strategies to ![ni-tech](https://github.com/shridharkamathe/Electrical-Hardware-Ecommerce/assets/124047047/66626a2f-6c98-42e4-9210-93d17f8d3fa3)
 improve business performance.
 
 ## Dataset
