@@ -2,7 +2,9 @@
 
 This repository contains an analysis of the sales data for an Electrical Hardware 
 Ecommerce company. The analysis aims to provide sales insights and strategies to 
-improve business performance.![ni-tech](https://github.com/shridharkamathe/Electrical-Hardware-Ecommerce/assets/124047047/66626a2f-6c98-42e4-9210-93d17f8d3fa3)
+improve business performance.
+
+![ni-tech](https://github.com/shridharkamathe/Electrical-Hardware-Ecommerce/assets/124047047/66626a2f-6c98-42e4-9210-93d17f8d3fa3)
 
 ## Dataset
 
