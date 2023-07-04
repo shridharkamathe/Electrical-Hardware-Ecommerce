@@ -33,16 +33,22 @@ The dataset is available in the following files:
 The analysis conducted on the sales data includes the following key components:
 
 1. **Exploratory Data Analysis:** A comprehensive exploration of the sales data to understand the distribution, trends, and patterns in the sales transactions. This analysis provides an overview of the sales performance.
+<img width="938" alt="Screenshot 2023-07-04 at 12 22 36 PM" src="https://github.com/shridharkamathe/Titanic/assets/124047047/32a51e4b-4c84-4647-a6ac-e2c3a75db9ea">
 
-2. **Sales Insights:** Deriving insights from the data to identify the factors influencing sales, such as popular items, customer preferences, and high-demand categories. These insights help in understanding customer behavior and making informed business decisions.
 
-3. **State-wise Analysis:** Analyzing sales performance on a state-by-state basis to identify regions where the company performs well and regions with poor sales performance. This analysis helps in tailoring strategies and allocating resources accordingly.
+3. **Sales Insights:** Deriving insights from the data to identify the factors influencing sales, such as popular items, customer preferences, and high-demand categories. These insights help in understanding customer behavior and making informed business decisions.
 
-4. **Category Analysis:** Examining the sales data by category to identify the top-selling categories and understand their contribution to overall sales. This analysis aids in optimizing product assortment and marketing efforts.
+4. **State-wise Analysis:** Analyzing sales performance on a state-by-state basis to identify regions where the company performs well and regions with poor sales performance. This analysis helps in tailoring strategies and allocating resources accordingly.
+<img width="938" alt="Screenshot 2023-07-04 at 12 22 57 PM" src="https://github.com/shridharkamathe/Titanic/assets/124047047/987a8e09-6338-4078-bf3e-927e7c17b89b">
 
-5. **Date Analysis:** Analyzing sales trends based on dates to identify seasonality patterns, peak sales periods, and potential opportunities for targeted promotions and campaigns.
 
-6. **Sales Strategies:** Based on the analysis findings, developing actionable sales strategies to enhance business performance. These strategies may include targeted marketing campaigns, product promotions, pricing optimization, customer retention initiatives, and more.
+6. **Category Analysis:** Examining the sales data by category to identify the top-selling categories and understand their contribution to overall sales. This analysis aids in optimizing product assortment and marketing efforts.
+<img width="938" alt="Screenshot 2023-07-04 at 12 23 36 PM" src="https://github.com/shridharkamathe/Titanic/assets/124047047/16f70af7-882b-490e-8b70-c54c6c8ed0bf">
+
+
+8. **Date Analysis:** Analyzing sales trends based on dates to identify seasonality patterns, peak sales periods, and potential opportunities for targeted promotions and campaigns.
+
+9. **Sales Strategies:** Based on the analysis findings, developing actionable sales strategies to enhance business performance. These strategies may include targeted marketing campaigns, product promotions, pricing optimization, customer retention initiatives, and more.
 
 ## Repository Structure
 
