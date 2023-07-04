@@ -64,6 +64,10 @@ The repository is structured as follows:
 
 - **README.md:** This file, providing an overview of the repository and its contents.
 
+## Challenges Faced
+
+Data cleaning turned out to be challenging as the Dataset was not sorted. Other than that, dataset is big so working on it in Excel was challenging and took patience.
+
 ## Usage
 
 To access and utilize the analysis results:
